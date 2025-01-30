@@ -1,0 +1,121 @@
+site_name: Shimmering Community Docs
+site_description: SCN Docs Project
+site_author: Shimmering Community
+site_url: https://docs.starlightcommunity.network/
+repo_url: https://github.com/starlight-community-network/scn-docs
+repo_name: starlight-community-network/scn-docs
+copyright: Copyright &copy; 2019-2025 SCN & Shimmering Community
+nav:
+ 
+  - Hub:
+      - Overview: Hub/Overview.md
+      - Transparency Reports:
+        - Community:
+            Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
+        #-Incidents:
+        #-Inquiries:
+
+  - Blog:
+    - blog/index.md
+theme:
+  name: material
+  font:
+    text: Montserrat
+    code: Red Hat Mono
+  logo: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
+  favicon: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep purple
+      accent: purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: deep purple
+      accent: purple
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
+#extra_css:
+#  - stylesheets/extra.css
+
+  
+
+markdown_extensions:
+
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+plugins:
+  - blog
+  - privacy
+  - search
+#  - social
+  - tags
+#  - git-revision-date-localized:
+#      enable_creation_date: true
+
+
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/Starlight-Community-Network
+      name: SCN on Github
+    - icon: simple/youtube
+      link: https://www.youtube.com/@ShimmeringCommunity
+      name: SCN on YouTube
+    - icon: simple/mastodon
+      link: https://mastodon.online/@StarlightGaming
+      name: SCN on Mastodon
+    - icon: simple/pixelfed
+      link: https://pixelfed.social/StarlightGaming
+      name: SCN on Pixelfed
+    - icon: simple/discord
+      link: https://discord.gg/BHz2aHuppC
+      name: SCN on Discord
+    - icon: simple/protonmail
+      link: mailto:Support@starlightcommunity.network
+      name: Contact Email
