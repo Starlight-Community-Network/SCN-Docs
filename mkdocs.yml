@@ -93,10 +93,10 @@ plugins:
   - blog
   - privacy
   - search
-#  - social
+#  - social can't get these work do not uncomment these out you broke it the docs 40 mins Night fury 
   - tags
-#  - git-revision-date-localized:
-#      enable_creation_date: true
+#  - git-revision-date-localized: can't get these work do not uncomment these out you broke it the docs 40 mins Night fury 
+#      enable_creation_date: true can't get these work do not uncomment these out you broke it the docs 40 mins Night fury 
 
 
 extra:
