@@ -98,7 +98,7 @@ plugins:
   - privacy
   - search
   - social:
-      cards: true
+    cards: true
   - tags
   - git-revision-date-localized:
       enable_creation_date: true
