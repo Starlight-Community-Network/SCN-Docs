@@ -90,8 +90,7 @@ markdown_extensions:
 
 
 plugins:
-  - blog:
-    post_readtime: true
+  - blog
   - privacy
   - search
   - social
