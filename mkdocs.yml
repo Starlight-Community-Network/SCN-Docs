@@ -90,14 +90,14 @@ markdown_extensions:
 
 
 plugins:
-  - blog
+  - blog:
    post_date_format: full
    post_readtime: true
    categories: true
    authors: false
   - privacy
   - search
-  - social
+  - social:
    cards: true
   - tags
   - git-revision-date-localized:
