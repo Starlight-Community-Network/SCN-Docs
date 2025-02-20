@@ -90,18 +90,18 @@ markdown_extensions:
 
 
 plugins:
-  - blog
-  - post_date_format: full
-  - post_readtime: true
-  - categories: true
-  - authors: true
+  - blog:
+    post_date_format: full
+    post_readtime: true
+    categories: true
+    authors: true
   - privacy
   - search
-  - social
-  - cards: true
+  - social:
+    cards: true
   - tags
   - git-revision-date-localized:
-      enable_creation_date: true
+    enable_creation_date: true
 
 
 extra:
