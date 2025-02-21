@@ -21,9 +21,10 @@ theme:
   name: material
   font:
     text: Montserrat
-    code: Red Hat Mono
-  logo: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
-  favicon: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
+    code: Source Code Pro
+  logo: assets/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
+  favicon: assets/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
+
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -91,12 +92,16 @@ markdown_extensions:
 
 plugins:
   - blog
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+            as_creation: date
   - privacy
   - search
-#  - social can't get these work do not uncomment these out you broke the docs for 40 mins Night fury 
+  - social
   - tags
-#  - git-revision-date-localized: can't get these work do not uncomment these out you broke the docs for 40 mins Night fury
-#      enable_creation_date: true can't get these work do not uncomment these out you broke the docs for 40 mins Night fury
+  #- git-revision-date-localized:
+  #   enable_creation_date: true
 
 
 extra:
