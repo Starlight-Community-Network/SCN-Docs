@@ -121,6 +121,9 @@ extra:
     - icon: simple/discord
       link: https://discord.gg/BHz2aHuppC
       name: SCN on Discord
-    - icon: simple/protonmail
+    - icon: fontawesome/solid/paper-plane
       link: mailto:Support@starlightcommunity.network
       name: Contact Email
+    - icon: simple/rss
+      link: /feed_rss_created.xml
+      name: RSS Feed
