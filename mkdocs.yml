@@ -20,8 +20,8 @@ nav:
   - MSRP: MSRP/Placholder.md
   - ScumCraft: index.md
     - Changelogs: 
-      Version 4.0–4.6: ScumCraft/Change Logs/Version 4.0–4.6.md
-      Version 5.0: ScumCraft/Change Logs/Version 5.0.md 
+        Version 4.0–4.6: ScumCraft/Change Logs/Version 4.0–4.6.md
+        Version 5.0: ScumCraft/Change Logs/Version 5.0.md 
 
   - Blog:
     - Blog/index.md
