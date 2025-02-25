@@ -8,21 +8,15 @@ copyright: Copyright &copy; 2019-2025 SCN & Shimmering Community
 nav:
  
   - Hub:
-    - Overview: Hub/Overview.md
-    - Transparency Reports:
-      - Community:
-          Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
-      - Incidents: 
-          Placeholder: Hub/Transparency Reports/Incidents/Placholder.md
-      - Inquiries: 
-          Placeholder: Hub/Transparency Reports/Inquiries/Placholder.md
-
-  - BRCRP: BRCRP/Placholder.md
-
-  - MSRP: MSRP/Placholder.md
+      - Overview: Hub/Overview.md
+      - Transparency Reports:
+        - Community:
+            Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
+        #-Incidents:
+        #-Inquiries:
 
   - Blog:
-   - blog/index.md
+    - blog/index.md
 theme:
   name: material
   font:
@@ -112,7 +106,7 @@ plugins:
 
 extra:
   social:
-    - icon: 
+    - icon: simple/github
       link: https://github.com/Starlight-Community-Network
       name: SCN on Github
     - icon: simple/youtube
@@ -127,6 +121,9 @@ extra:
     - icon: simple/discord
       link: https://discord.gg/BHz2aHuppC
       name: SCN on Discord
-    - icon: simple/protonmail
+    - icon: fontawesome/solid/paper-plane
       link: mailto:Support@starlightcommunity.network
       name: Contact Email
+    - icon: simple/rss
+      link: /feed_rss_created.xml
+      name: RSS Feed
