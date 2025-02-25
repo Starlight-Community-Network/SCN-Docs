@@ -17,7 +17,11 @@ nav:
         - Inquiries: 
             Placeholder: Hub/Transparency Reports/Inquiries/Placholder.md
 
-  - Blog:
+  - BRCRP: BRCRP/Placholder.md
+
+  - MSRP: MSRP/Placholder.md
+
+   - Blog:
     - blog/index.md
 theme:
   name: material
