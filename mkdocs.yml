@@ -12,11 +12,13 @@ nav:
       - Transparency Reports:
         - Community:
             Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
-        #-Incidents:
-        #-Inquiries:
+        - Incidents: Hub/Transparency Reports/Incidents
+        - Inquiries: Hub/Transparency Reports/Inquiries
+  - BRCRP
+  - MSRP
 
   - Blog:
-    - blog/index.md
+    - Blog/index.md
 theme:
   name: material
   font:
@@ -106,7 +108,7 @@ plugins:
 
 extra:
   social:
-    - icon: simple/github
+    - icon: 
       link: https://github.com/Starlight-Community-Network
       name: SCN on Github
     - icon: simple/youtube
