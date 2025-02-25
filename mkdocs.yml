@@ -8,21 +8,21 @@ copyright: Copyright &copy; 2019-2025 SCN & Shimmering Community
 nav:
  
   - Hub:
-      - Overview: Hub/Overview.md
-      - Transparency Reports:
-        - Community:
-            Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
-        - Incidents: 
-            Placeholder: Hub/Transparency Reports/Incidents/Placholder.md
-        - Inquiries: 
-            Placeholder: Hub/Transparency Reports/Inquiries/Placholder.md
+    - Overview: Hub/Overview.md
+    - Transparency Reports:
+      - Community:
+          Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
+      - Incidents: 
+          Placeholder: Hub/Transparency Reports/Incidents/Placholder.md
+      - Inquiries: 
+          Placeholder: Hub/Transparency Reports/Inquiries/Placholder.md
 
   - BRCRP: BRCRP/Placholder.md
 
   - MSRP: MSRP/Placholder.md
 
-   - Blog:
-    - blog/index.md
+  - Blog:
+   - blog/index.md
 theme:
   name: material
   font:
