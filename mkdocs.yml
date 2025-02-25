@@ -12,10 +12,16 @@ nav:
       - Transparency Reports:
         - Community:
             Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
-        - Incidents: Hub/Transparency Reports/Incidents
-        - Inquiries: Hub/Transparency Reports/Inquiries
-  - BRCRP
-  - MSRP
+        - Incidents: 
+            Placeholder: Hub/Transparency Reports/Incidents/Placholder.md
+        - Inquiries: 
+            Placeholder: Hub/Transparency Reports/Inquiries/Placholder.md
+  - BRCRP: BRCRP/Placholder.md
+  - MSRP: MSRP/Placholder.md
+  - ScumCraft: index.md
+      Changelogs: 
+        Version 4.0–4.6: ScumCraft/Change Logs/Version 4.0–4.6.md
+        Version 5.0: ScumCraft/Change Logs/Version 5.0.md 
 
   - Blog:
     - Blog/index.md
