@@ -12,8 +12,10 @@ nav:
       - Transparency Reports:
         - Community:
             Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
-        #-Incidents:
-        #-Inquiries:
+        - Incidents:
+            Placholder: Hub/Transparency Reports/Incidents/Placholder.md
+        - Inquiries:
+            Placholder: Hub/Transparency Reports/Inquiries/Placholder.md
 
   - Blog:
     - blog/index.md
