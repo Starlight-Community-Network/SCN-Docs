@@ -16,8 +16,8 @@ nav:
             Placholder: Hub/Transparency Reports/Incidents/Placeholder.md
         - Inquiries:
             Placholder: Hub/Transparency Reports/Inquiries/Placeholder.md
-  - BRCRP: /BRCRP/Placeholder
-  - MSRP: /MSRP/Placeholder
+  - BRCRP: /BRCRP/Placeholder.md
+  - MSRP: /MSRP/Placeholder.md
   - ScumCraft:
       - Overview: ScumCraft/index.md
       - Change Logs:
