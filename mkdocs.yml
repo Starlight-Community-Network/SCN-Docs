@@ -1,6 +1,6 @@
 site_name: Shimmering Community Docs
 site_description: SCN Docs Project
-site_author: Shimmering Community
+site_author: starlight-community-network
 site_url: https://docs.starlightcommunity.network/
 repo_url: https://github.com/starlight-community-network/scn-docs
 repo_name: starlight-community-network/scn-docs
@@ -16,7 +16,7 @@ nav:
             Placholder: Hub/Transparency Reports/Incidents/Placeholder.md
         - Inquiries:
             Placholder: Hub/Transparency Reports/Inquiries/Placeholder.md
-  - BRCRP: BRCRP/Placeholder.md
+#  - BRCRP: BRCRP/Placeholder.md
   - MSRP: MSRP/Placeholder.md
   - ScumCraft:
       - Overview: ScumCraft/index.md
