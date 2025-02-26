@@ -16,6 +16,13 @@ nav:
             Placholder: Hub/Transparency Reports/Incidents/Placeholder.md
         - Inquiries:
             Placholder: Hub/Transparency Reports/Inquiries/Placeholder.md
+  - BRCRP: /BRCRP/Placeholder
+  - MSRP: /MSRP/Placeholder
+  - ScumCraft:
+      - Overview: ScumCraft/index.md
+      - Change Logs:
+          Version 4.0–4.6: ScumCraft/Change Logs/Version 4.0–4.6.md
+          Version 5.0: ScumCraft/Change Logs/Version 5.0.md
 
   - Blog:
     - blog/index.md
