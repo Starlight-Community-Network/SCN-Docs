@@ -5,11 +5,11 @@ So you can update stuff accordingly.
 
 !!! question
 
-    if you need help feel free to [contact us](mailto:thunderhawk@starlightcommunity.network,nightfury@starlightcommunity.network)
+    if you need help feel free to [contact us](mailto:thunderhawk@starlightcommunity.network,nightfury@starlightcommunity.network).
 
 !!! warning
-    January 1st 2026 marks 54 days days before we forfeit onwership of "starlightgaming.network" and ".net" please if 
-    you haven't already Update your bookmarks and start using the updated URLs Below
+    January 1st, 2026 marks 54 days before we forfeit ownership of "starlightgaming.network" and ".net." Please, if 
+    you haven't already Update your bookmarks and start using the updated URLs below.
 
 * Starlightgaming.network → starlightcommunity.network
 * starlightgaming.net → starlightcommunity.net
