@@ -9,6 +9,7 @@ nav:
  
   - Hub:
       - Overview: Hub/Overview.md
+      - Domain Update: Hub/domain.md
       - Transparency Reports:
         - Community:
             Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
