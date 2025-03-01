@@ -3,11 +3,11 @@
 On Jan 1, 2025 we have updated our domain From "starlightgaming.network" to "starlightcommunity.network and .net" here's all the URLs that are affected by this change
 So you can update stuff accordingly. 
 
-!!! question ""
+!!! question
 
     if you need help feel free to [contact us](mailto:thunderhawk@starlightcommunity.network,nightfury@starlightcommunity.network)
 
-!!! warning ""
+!!! warning
     January 1st 2026 marks 54 days days before we forfeit onwership of "starlightgaming.network" and ".net" please if 
     you haven't already Update your bookmarks and start using the updated URLs Below
 
