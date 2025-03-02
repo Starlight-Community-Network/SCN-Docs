@@ -1,6 +1,6 @@
 site_name: Shimmering Community Docs
 site_description: SCN Docs Project
-site_author: Shimmering Community
+site_author: starlight-community-network
 site_url: https://docs.starlightcommunity.network/
 repo_url: https://github.com/starlight-community-network/scn-docs
 repo_name: starlight-community-network/scn-docs
@@ -13,8 +13,17 @@ nav:
       - Transparency Reports:
         - Community:
             Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
-        #-Incidents:
-        #-Inquiries:
+        - Incidents:
+            Feb,22 2025 PT1: Hub/Transparency Reports/Incidents/2-22-25_1.md
+        - Inquiries:
+            Feb, 22 2025 PT2: Hub/Transparency Reports/Inquiries/2-22-25_2.md
+#  - BRCRP: BRCRP/Placeholder.md
+#  - MSRP: MSRP/Placeholder.md
+  - ScumCraft:
+      - Overview: ScumCraft/index.md
+      - Change Logs:
+          Version 4.0–4.6: ScumCraft/Change Logs/Version 4.0–4.6.md
+          Version 5.0: ScumCraft/Change Logs/Version 5.0.md
 
   - Blog:
     - blog/index.md
