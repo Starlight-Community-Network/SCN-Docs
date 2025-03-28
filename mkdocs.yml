@@ -1,7 +1,7 @@
 site_name: Shimmering Community Docs
 site_description: SCN Docs Project
-site_author: starlight-community-network
-site_url: https://docs.starlightcommunity.network/
+site_author: Starlight Community Network
+site_url: https://docs.starlightcommunity.network
 repo_url: https://github.com/starlight-community-network/scn-docs
 repo_name: starlight-community-network/scn-docs
 copyright: Copyright &copy; 2019-2025 SCN & Shimmering Community
@@ -10,6 +10,16 @@ nav:
   - Hub:
       - Overview: Hub/Overview.md
       - Domain Update: Hub/domain.md
+      - Formal Actions:
+        - Overview: Hub/Formal Actions/index.md
+        - Bans:
+            SCH-012-INB: Hub/Formal Actions/Bans/SCH-012-INB.md
+            SCH-016-ENB: Hub/Formal Actions/Bans/SCH-016-ENB.md
+            SCH-001-PWB: Hub/Formal Actions/Bans/SCH-001-PWB.md
+            SCH-028-INB: Hub/Formal Actions/Bans/SCH-028-INB.md
+            SCH-029-ENB: Hub/Formal Actions/Bans/CSD-029-ENB.md
+        - Warnings: 
+          - Overview: Hub/Formal Actions/Warnings/index.md
       - Transparency Reports:
         - Community:
             Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
@@ -18,22 +28,26 @@ nav:
         - Inquiries:
             Feb, 22 2025 PT2: Hub/Transparency Reports/Inquiries/2-22-25_2.md
 #  - BRCRP: BRCRP/Placeholder.md
-#  - MSRP: MSRP/Placeholder.md
+  - MSRP: MSRP/commands.md
   - ScumCraft:
       - Overview: ScumCraft/index.md
       - Change Logs:
           Version 4.0–4.6: ScumCraft/Change Logs/Version 4.0–4.6.md
           Version 5.0: ScumCraft/Change Logs/Version 5.0.md
-
+          Version 5.1: ScumCraft/Change Logs/Version 5.1.md
+#          Version Reborn:5.1: ScumCraft/Change Logs/Version Reborn 5.1
   - Blog:
     - blog/index.md
+  - Status: https://status.starlightcommunity.network
+  - Main Site: https://starlightcommunity.network
+  - Fallback Site: https://fallback.starlightcommunity.network
 theme:
   name: material
   font:
     text: Montserrat
     code: Source Code Pro
-  logo: assets/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
-  favicon: assets/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
+  logo: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
+  favicon: https://static.wixstatic.com/media/12679b_f990c0dfc4744a7d828199dd2c91ea50~mv2.png
 
   icon:
     repo: fontawesome/brands/github
@@ -108,7 +122,8 @@ plugins:
             as_creation: date
   - privacy
   - search
-  - social
+  - glightbox
+  #- social
   - tags
   #- git-revision-date-localized:
   #   enable_creation_date: true

@@ -1,3 +1,7 @@
+---
+status: new
+---
+
 ## New Domain
 
 On Jan 1, 2025 we have updated our domain From "starlightgaming.network" to "starlightcommunity.network and .net" here's all the URLs that are affected by this change

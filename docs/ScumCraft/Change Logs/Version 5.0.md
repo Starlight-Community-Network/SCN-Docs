@@ -32,3 +32,11 @@ ScumCraft 5.0 Brought Massive Changes such as feature back ports from new MineCr
 
 * Added a secondary way to connect to Scum Craft by clicking "Scum Craft Damain" for Testing
 * And some other things I forgot 💀
+
+# ScumCraft 5.0.1
+
+This update was really small and was mostly fixing conflictions
+
+## General Changes
+
+* Updates to some mods
