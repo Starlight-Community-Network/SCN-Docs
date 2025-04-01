@@ -17,14 +17,14 @@ So you can update stuff accordingly.
 
 * Starlightgaming.network → starlightcommunity.network
 * starlightgaming.net → starlightcommunity.net
-* Blossom.Starlightgaming.network → blossom.starlightcommunity.net
+* Blossom.Starlightgaming.network → blossom.starlightcommunity.net (is going away) by Apr 1, 2026
 * Scumcraft: Please Contact Clonn, Thunderhawk, or Night Fury for URL if its not inclued with the Sqaud Edition Pack
 * Status.Starlightgaming.network → Status.starlightcommunity.network
 * Fallback.Starlightgaming.network → Fallback.starlightcommunity.network
 * Dev.Starlightgaming.network → Dev.starlightcommunity.network
 * Internal.Starlightgaming.network → Internal.starlightcommunity.network
 * Classic.Starlightgaming.network → Classic.starlightcommunity.network
-* Brcad.Starlightgaming.net → Brcad.starlightcommunity.net (is going away) by Mar 3, 2025
+* Brcad.Starlightgaming.net → Brcad.starlightcommunity.net (is going away) by Mar 3, 2026
 * Rntcad.Starlightgaming.network → Rntcad.starlightcommunity.net
 * Clonn.Starlightgaming.network → Clonn.starlightcommunity.net
 * Photontweaks.Starlightgaming.network → Photontweaks.starlightcommunity.net
