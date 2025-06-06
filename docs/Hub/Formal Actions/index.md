@@ -1,14 +1,11 @@
 ---
 hide:
   - toc
-
-status: new
-
 ---
 
-# Welcome to our public Punishment record!
+# Welcome To Our Public Punishment Record!
 
-This Section contains a public record of all formal warnings and bans issued by the Starlight Community Staff
+This section contains a public record of all formal warnings and bans issued by the Starlight Community Staff
 
 <div class="grid cards" markdown>
 
@@ -18,8 +15,8 @@ This Section contains a public record of all formal warnings and bans issued by 
 
     Got punnished? find your record here!
 
-    - [Bans](Hub/Formal Actions/Bans/SCH-012-INB.md)
-    - [Warnings](Hub/Formal Actions/Warnings/index.md)
+    - [Bans](/Hub/Formal%20Actions/Bans/SCH-012-INB/)
+    - [Warnings](/Hub/Formal Actions/Warnings/)
 
 -   :material-gavel:{ .lg .middle } __Guidelines__
 

@@ -18,6 +18,10 @@ nav:
             SCH-001-PWB: Hub/Formal Actions/Bans/SCH-001-PWB.md
             SCH-028-INB: Hub/Formal Actions/Bans/SCH-028-INB.md
             SCH-029-ENB: Hub/Formal Actions/Bans/CSD-029-ENB.md
+            MS-XX1-INB & MS-XX2-INB: Hub/Formal Actions/Bans/MS-XX1-INB.md
+            SCH-031-INB: Hub/Formal Actions/Bans/SCH-031-INB.md
+
+
         - Warnings: 
           - Overview: Hub/Formal Actions/Warnings/index.md
       - Transparency Reports:
@@ -27,7 +31,6 @@ nav:
             Feb,22 2025 PT1: Hub/Transparency Reports/Incidents/2-22-25_1.md
         - Inquiries:
             Feb, 22 2025 PT2: Hub/Transparency Reports/Inquiries/2-22-25_2.md
-#  - BRCRP: BRCRP/Placeholder.md
   - ScumCraft:
       - Overview: ScumCraft/index.md
       - Change Logs:
@@ -67,6 +70,7 @@ theme:
       primary: deep purple
       accent: purple
   features:
+    - content.tooltips
     - navigation.indexes
     - navigation.tabs
     - navigation.path
@@ -122,7 +126,7 @@ plugins:
   - privacy
   - search
   - glightbox
-  #- social
+  - social
   - tags
   #- git-revision-date-localized:
   #   enable_creation_date: true
