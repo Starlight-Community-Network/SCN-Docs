@@ -1,8 +1,6 @@
 # ScumCraft:Reborn 2025.8
 
-ScumCraft:Reborn Is the first Version to be ported to Fabric effectively killing off the Forge branch 
-
-# ScumCraft:Reborn 2025.8
+ScumCraft:Reborn Is the first Version to be ported to Fabric effectively killing off the Forge branch.
 
 ## Added: 
 * ARRP 
