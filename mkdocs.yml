@@ -35,10 +35,10 @@ nav:
       - ScumCraft:
           - Overview: modding/scumcraft/index.md
           - Change Logs:
-              Version 4.0–4.6: scumcraft/updates/4.0–4.6.md
-              Version 5.0: scumcraft/updates/5.0.md
-              Version 5.1: scumcraft/updates/5.1.md
-              Version Reborn:2025.8: scumcraft/updates/reborn-2025.8.md
+              Version 4.0–4.6: modding/scumcraft/updates/4.0–4.6.md
+              Version 5.0: modding/scumcraft/updates/5.0.md
+              Version 5.1: modding/scumcraft/updates/5.1.md
+              Version Reborn:2025.8: modding/scumcraft/updates/reborn-2025.8.md
   - Blog:
     - blog/index.md
   - Status: https://status.starlightcommunity.network
