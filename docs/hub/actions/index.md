@@ -15,17 +15,17 @@ This section contains a public record of all formal warnings and bans issued by 
 
     Got punnished? find your record here!
 
-    - [Bans](/Hub/Formal%20Actions/Bans/SCH-012-INB/)
-    - [Warnings](/Hub/Formal Actions/Warnings/)
+    - [Bans](/hub/actions/bans/SCH-012-INB/)
+    - [Warnings](/hub/actions/warnings/)
 
 -   :material-gavel:{ .lg .middle } __Guidelines__
 
     ---
 
-    - [Community Guidelines](/Hub/Formal Actions/General Guidelines)
-    - [Forum Rules](/Hub/Formal Actions/Forum Guidelines)
-    - [Network Ban guidelines](/Hub/Formal Actions/Network Bans)
-    - [Appeal Guidelines](/Hub/Formal Actions/Appeal Guidelines)
+    - [Community Guidelines](/hub/actions/general-guidelines)
+    - [Forum Rules](/hub/actions/forum-guidelines)
+    - [Network Ban guidelines](/hub/actions/network-bans)
+    - [Appeal Guidelines](/hub/actions/appeal-guidelines)
 
 
 </div>

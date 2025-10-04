@@ -8,36 +8,37 @@ copyright: Copyright &copy; 2019-2025 SCN & Shimmering Community
 nav:
  
   - Hub:
-      - Overview: Hub/Overview.md
-      - Domain Update: Hub/domain.md
+      - Overview: hub/overview.md
+      - Domain Update: hub/domain.md
       - Formal Actions:
-        - Overview: Hub/Formal Actions/index.md
+        - Overview: hub/actions/index.md
         - Bans:
-            SCH-012-INB: Hub/Formal Actions/Bans/SCH-012-INB.md
-            SCH-016-ENB: Hub/Formal Actions/Bans/SCH-016-ENB.md
-            SCH-001-PWB: Hub/Formal Actions/Bans/SCH-001-PWB.md
-            SCH-028-INB: Hub/Formal Actions/Bans/SCH-028-INB.md
-            SCH-029-ENB: Hub/Formal Actions/Bans/CSD-029-ENB.md
-            MS-XX1-INB & MS-XX2-INB: Hub/Formal Actions/Bans/MS-XX1-INB.md
-            SCH-031-INB: Hub/Formal Actions/Bans/SCH-031-INB.md
-
-
+            SCH-012-INB: hub/actions/bans/SCH-012-INB.md
+            SCH-016-ENB: hub/actions/bans/SCH-016-ENB.md
+            SCH-001-PWB: hub/actions/bans/SCH-001-PWB.md
+            SCH-028-INB: hub/actions/bans/SCH-028-INB.md
+            SCH-029-ENB: hub/actions/bans/CSD-029-ENB.md
+            MS-XX1-INB & MS-XX2-INB: hub/actions/bans/MS-XX1-INB.md
+            SCH-031-INB: hub/actions/bans/SCH-031-INB.md
         - Warnings: 
-          - Overview: Hub/Formal Actions/Warnings/index.md
+          - Overview: hub/actions/warnings/index.md
       - Transparency Reports:
         - Community:
-            Jan, 23 2025: Hub/Transparency Reports/Community/1-23-25.md
+            Jan, 23 2025: hub/transparency-reports/community/1-23-25.md
         - Incidents:
-            Feb,22 2025 PT1: Hub/Transparency Reports/Incidents/2-22-25_1.md
+            Feb,22 2025 PT1: hub/Transparency Reports/incidents/2-22-25_1.md
         - Inquiries:
-            Feb, 22 2025 PT2: Hub/Transparency Reports/Inquiries/2-22-25_2.md
-  - ScumCraft:
-      - Overview: ScumCraft/index.md
-      - Change Logs:
-          Version 4.0–4.6: ScumCraft/Change Logs/Version 4.0–4.6.md
-          Version 5.0: ScumCraft/Change Logs/Version 5.0.md
-          Version 5.1: ScumCraft/Change Logs/Version 5.1.md
-          Version Reborn:2025.8: ScumCraft/Change Logs/Version Reborn 2025.8.md
+            Feb, 22 2025 PT2: hub/Transparency Reports/inquiries/2-22-25_2.md
+  - Starlight Modding:
+      - Project Ashwick:
+          - Overview: modding/project-ashwick/index.md
+      - ScumCraft:
+          - Overview: modding/scumcraft/index.md
+          - Change Logs:
+              Version 4.0–4.6: scumcraft/updates/4.0–4.6.md
+              Version 5.0: scumcraft/updates/5.0.md
+              Version 5.1: scumcraft/updates/5.1.md
+              Version Reborn:2025.8: scumcraft/updates/reborn-2025.8.md
   - Blog:
     - blog/index.md
   - Status: https://status.starlightcommunity.network
