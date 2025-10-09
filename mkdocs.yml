@@ -26,9 +26,10 @@ nav:
         - Community:
             Jan, 23 2025: hub/transparency-reports/community/1-23-25.md
         - Incidents:
-            Feb,22 2025 PT1: hub/Transparency Reports/incidents/2-22-25_1.md
+            Feb,22 2025 PT1: hub/transparency-reports/incidents/2-22-25_1.md
+            Feb,22 2025 PT3: hub/transparency-reports/incidents/2-22-25_3.md
         - Inquiries:
-            Feb, 22 2025 PT2: hub/Transparency Reports/inquiries/2-22-25_2.md
+            Feb, 22 2025 PT2: hub/transparency-reports/inquiries/2-22-25_2.md
   - Starlight Modding:
       - Project Ashwick:
           - Overview: modding/project-ashwick/index.md
