@@ -2,8 +2,8 @@ site_name: Shimmering Community Docs
 site_description: SCN Docs Project
 site_author: Starlight Community Network
 site_url: https://docs.starlightcommunity.network
-repo_url: https://github.com/starlight-community-network/scn-docs
-repo_name: starlight-community-network/scn-docs
+repo_url: https://github.com/Starlight-Community-Network/SCN-Docs
+repo_name: Starlight-Community-Network/SCN-Docs
 copyright: Copyright &copy; 2019-2025 SCN & Shimmering Community
 nav:
  
@@ -157,3 +157,4 @@ extra:
     - icon: simple/rss
       link: /feed_rss_created.xml
       name: RSS Feed
+
