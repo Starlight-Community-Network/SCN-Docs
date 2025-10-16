@@ -15,8 +15,8 @@ The users has been banned from Starlight Community Network for Trust and Safety.
     We have been made aware that one of our servers has made an annoucement and X post has been made about the 2 users but to prevent the encouragement of harassment they will be made anonymous and the X post will not be linked nor will the discord ID's be left here but if you have a community and you would like to protect them contact [Trust and Safety](mailto:safety@starlightcommunity.network) and we will provide the Discord ID's if we believe it won't be used for hurassment and only to ban the users. (*You will be background checked*)
     
     !!! failure "Unbanned"
-        None of the evidence provided held any ground when additional context was given, implying that this was just a case of false allegations with malicious intent.
-        Which is a [Network Bannable Offense}(https://docs.starlightcommunity.network/hub/actions/network-bans/#:~:text=False%20Allegations%20With%20Malicious%20Intent%20(Starting/Aiding))
+        None of the evidence provided held any ground when additional context was given, implying that this was just a case of false allegations with malicious intent. 
+        Which is a [Network Bannable Offense](https://docs.starlightcommunity.network/hub/actions/network-bans/#:~:text=False%20Allegations%20With%20Malicious%20Intent%20(Starting/Aiding))
 
 
 
