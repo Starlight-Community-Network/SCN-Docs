@@ -20,6 +20,10 @@ The user made a now deleted x post with the intent to [cancel](https://en.wikipe
 ![IMG_0720](/assets/Formal Actions/SCH-28-INB/IMG_0720.jpg)
 ![IMG_0721](/assets/Formal Actions/SCH-28-INB/IMG_0721.jpg)
 
+!!! info "Context"
+
+    Looking into this case recently, we quoted these screenshots, but the uncensored versions show that the person they were calling out seems to be living in a state where the AOC is 16. It doesn't change much from our perspective, but like the Twitter poster said, the law is the law, and we have to respect it even if we don't agree with it, so the person who was "called out" legally did nothing wrong.
+
 ## Staff involvement & Punishments 
 Banned by jpplaysyt This member received 0 formal warnings before they were banned.
 
