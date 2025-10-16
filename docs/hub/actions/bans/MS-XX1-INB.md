@@ -27,7 +27,7 @@ The users has shown malicious behavior that would render our community vulnerabl
 
 !! info "Notice"
 
-    Most of the Discord messages could not be proven to be real, as nobody could show the original messages or provide message IDs to prove the messages really exist and were not altered using an image editing tool or inspect element, so they have been removed to prevent harm.
+    Most of the Discord messages could not be proven to be real, as nobody could show the original messages or provide message IDs to prove the messages really exist and were not altered using an image editing tool or         inspect element, so they have been removed to prevent harm.
 
 
 ## Staff involvement & Punishments 
